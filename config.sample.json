@@ -1,0 +1,24 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://www.google.com/webhp?hl=de&sa=X&ved=0ahUKEwivn8OSk9T_AhUr7LsIHeUnDosQPAgI",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://www.wieleicht.de/",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "https://www.transresult.de/",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
