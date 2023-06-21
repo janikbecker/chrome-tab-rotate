@@ -7,17 +7,22 @@
   "websites": [
     {
       "url": "https://www.google.com/webhp?hl=de&sa=X&ved=0ahUKEwivn8OSk9T_AhUr7LsIHeUnDosQPAgI",
-      "duration": 8,
+      "duration": 3,
       "tabReloadIntervalSeconds": 15
     },
     {
       "url": "https://www.wieleicht.de/",
-      "duration": 8,
+      "duration": 3,
       "tabReloadIntervalSeconds": 15
     },
     {
       "url": "https://www.transresult.de/",
-      "duration": 8,
+      "duration": 3,
+      "tabReloadIntervalSeconds": 15
+    },
+    {
+      "url": "http://designcontent.menorca.stage52.trbs.biz/",
+      "duration": 3,
       "tabReloadIntervalSeconds": 15
     }
   ]
