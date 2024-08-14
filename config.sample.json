@@ -6,22 +6,27 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://www.google.com/webhp?hl=de&sa=X&ved=0ahUKEwivn8OSk9T_AhUr7LsIHeUnDosQPAgI",
+      "url": "https://2408-infoanzeige-v2.netlify.app/menu-hs",
       "duration": 3,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://www.wieleicht.de/",
+      "url": "https://2408-infoanzeige-v2.netlify.app/room-plan",
       "duration": 3,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://www.transresult.de/",
+      "url": "https://2408-infoanzeige-v2.netlify.app/library-rules",
       "duration": 3,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "http://designcontent.menorca.stage52.trbs.biz/",
+      "url": "https://2408-infoanzeige-v2.netlify.app/latest-news-hs",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 15
+    },
+        {
+      "url": "https://2408-infoanzeige-v2.netlify.app/flockler-hs",
       "duration": 3,
       "tabReloadIntervalSeconds": 15
     }
